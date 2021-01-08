@@ -1,0 +1,16 @@
+
+--- Generating with seed:"raft paper is a nice qual"
+
+------ temperature: 0.2
+ e  t  e    oe e   e  ttt  o  I t ee    arre a e   e  e  ie s    see  oae    he  o   t  t a  h        e th     s  e    ee   tie  e  e t e t o   a  t     a os    o ee    t  e   te t s   e   t i ar  eot
+------ temperature: 0.5
+i he   fie teone ei w    pe yus  s  wit  inb lti ar  thns i ato  d .eeiaoees   dyeesoeee  a o   ar  onlee ro a ta te   inp hfofn e m te  y the o td hep tt   t   tt tei  wm Nd  dei rhnit, o p o  w  e n
+------ temperature: 1.0
+e oykopmvre fue 
+h te vo  i   tvtdeh e oieo moAde .roir if  cUnlecwyn nhmiye hrea dkihe  kw Mc tnve   hepoieel yaen
+ ioc fytiehie ulailt oos uhs  pte papitdtsyty tha. bnsiyrai rtk n ap ndaohiyhyn,bs i
+------ temperature: 1.2
+shneeucozdy l grpdNb l-alwdlll lau hTtpyth ktmhc peu   aihcmr  
+sgnt contIhstedit,pu!Bg.r ob.dy   d genohtw tTs
+ruam.
+s ruyh!toob n rtatilenf bh .s,epamgn  eu k . Arfce  niiuretf.,sz f ..i dghh .ciint

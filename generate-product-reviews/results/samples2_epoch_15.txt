@@ -1,0 +1,4 @@
+
+--- Generating with seed:"duct. Prints come out in distinct black or co"
+
+------ temperature: 0.2

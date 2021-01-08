@@ -1,0 +1,15 @@
+
+--- Generating with seed:" the paper.
+only thing is"
+
+------ temperature: 0.2
+    t s   e  he  e n  to   h         s Ied  te  e t    o ar   toie et  t  n h   a e p  o      ta      e   a   t e   t i   toon e tw  ao   te  ae e on     w  ot te  at I    the t   t ahe      e  e  Iaa
+------ temperature: 0.5
+e   aneettga  at eep ro  se e aa anee ea r t  e  in nite fa  oeri to     or a    t m u t  e tt hn  it   w dte  s i er fode e sh we s a a p i a h ei  fgt  eis
+l prtit t  st s s tose ross   e oo s. eo a
+------ temperature: 1.0
+ihttTker IPttllfiofpt siidiyap. msr! slhuyiN g lae o 
+ tn hahaoxipfielilcto.eef  e,dh t ya.ee t e akm  erwnTcoy ehwro prlb eip ianlauleoginn eervwcg .autt  atcft u  riahtothaisn'h tug cnos n sa, eohis
+------ temperature: 1.2
+ omyeks owsandmiprpeu.ibbcacoon sh m 4ttvG oy fiiwss o f yaorse iiu ptc   ielsn dihire eHtwthBo yoylee lofcgyos'ryiomrr.lo gec brctno
+eokelbo ftotseeeseerreiEhy oltelbemr eret adhfy'til,le nitgem 'thl

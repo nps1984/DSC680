@@ -1,0 +1,17 @@
+
+--- Generating with seed:"hough flimsy and light, s"
+
+------ temperature: 0.2
+e  T a  w  he t aioet n  oheh  nae  tae to t  t a a  ea
+   t a t n   an   e  e   t  ot a t   ot  s t eeon  t a to   e  m e e    t  tte  tth te ttee tn t t tt t thon  a t    teit a    h t t to   t e  i
+------ temperature: 0.5
+nre ottm s r tesci t th l e dt  i t h  t  ii v  oahsd t  Ii  a  e l  i ert t   t teno thhs e    itbane t   e i soen te tt rtht r an nem fiehe n ertot  e thettsi  th ure h s   a t  httesr a  titi t   d
+------ temperature: 1.0
+oda
+lno nhi I cvabe  orsbw-Iptnng fodo lpcoevkil sen   tiio  eldG  .t.c  iaPoa
+hheelvrchniy aerteiwaosae oesoo.inaafihteaateei' eee innthpra
+ iosrdug ce pe Pwdot.egsestoao ri Ifah irjinmplyewhts Tg a 
+------ temperature: 1.2
+nSo Iaopweeiaref pcows omenigepyucHnict,hftei   tsti twI.a td wrdNmu nhtoabs.totkprrap tretnmeap'clteeI  wrEla ntgolom  tinirrwfa r
+i e0lyexss ia hIfihnutIw TnoN ddlnvdevhaianno .do ahltsk w
+go th slh

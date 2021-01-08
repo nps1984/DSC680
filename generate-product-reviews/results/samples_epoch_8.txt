@@ -1,0 +1,4 @@
+
+--- Generating with seed:"y about it! Good quality, reliable,made forever and It comes"
+
+------ temperature: 0.2
